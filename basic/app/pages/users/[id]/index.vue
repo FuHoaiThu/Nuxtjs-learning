@@ -1,1 +1,3 @@
-<template><h1>User by id: {{ $route.params.id }}</h1></template>
+<template>
+  <h1>User by id: {{ $route.params.id }}</h1>
+</template>
