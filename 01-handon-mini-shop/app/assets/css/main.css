@@ -5,12 +5,16 @@
   --color-dark-blue-1: #17243a;
   --color-dark-blue-2: #526079;
   --color-dark-blue-3: #1c345c;
+  --color-dark-blue-4: #11223c;
   --color-blue-1: #2563eb;
   --color-blue-2: #215bd6;
   --color-blue-3: #64748b;
   --color-blue-4: #718096;
+  --color-blue-5: #1c4c98;
   --color-grey-1: #e5eaf2;
   --color-grey-blue-1: #f6f8fc;
+  --color-grey-blue-2: #dce5f1;
+  --color-grey-blue-3: #eaf0fc;
   --color-white: #fff;
 }
 
@@ -19,4 +23,10 @@ body {
   padding: 0;
   color: var(--color-dark-blue-1);
   background-color: var(--color-grey-blue-1);
+}
+
+.wrapper {
+  width: 82%;
+  margin: 0 auto;
+  min-height: calc(100vh - 145px);
 }

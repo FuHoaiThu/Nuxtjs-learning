@@ -1,1 +1,12 @@
-<template>About</template>
+<template>
+  <section class="wrapper">
+    <Hero :content="heroContent"/>
+  </section>
+</template>
+<script setup>
+const heroContent = {
+  eyebrow: "Our collection",
+  header: "Our Products",
+  lead: "Discover our carefully selected products.",
+};
+</script>
