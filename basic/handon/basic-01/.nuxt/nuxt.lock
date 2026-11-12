@@ -1,0 +1,10 @@
+{
+  "pid": 20509,
+  "startedAt": 1794451930724,
+  "interactive": true,
+  "command": "dev",
+  "cwd": "/home/thubth/Coding/Nuxtjs-learning/basic/handon/basic-01",
+  "port": 3001,
+  "hostname": "127.0.0.1",
+  "url": "http://127.0.0.1:3001"
+}
